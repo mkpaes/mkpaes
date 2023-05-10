@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
  <div>
-   <a href="https://github.com/Mkpaes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mkpaes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkpaes&layout=compact&langs_count=6&theme=radical"/>
+   <a href="https://github.com/mkpaes">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkpaes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpaes&layout=compact&langs_count=6&theme=radical"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -23,6 +23,6 @@ You can click the Preview link to take a look at your changes.
   <a href = "mailto:murilo.paes191@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mkpaes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mkpaes/mkpaes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
